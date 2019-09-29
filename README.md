@@ -1,3 +1,2 @@
-# chrome-extension-save-image
+﻿# chrome插件 - 保存图片
 
-谷歌浏览器插件，保存网页图片

@@ -1,0 +1,14 @@
+.btn {
+    background-color: #eee;
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    width: 120px;
+    display: block;
+    text-align: center;
+    margin:3px;
+}
+
+    .btn:hover {
+        cursor: pointer;
+    }
